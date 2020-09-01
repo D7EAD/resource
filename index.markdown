@@ -1,5 +1,0 @@
----
-title: dreadsec::blog
----
-
-Hello!
