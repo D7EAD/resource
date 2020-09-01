@@ -1,1 +1,1 @@
-<title>dreadsec::blog</title>
+title: dreadsec::blog
