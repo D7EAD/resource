@@ -1,3 +1,3 @@
-<h1>Welcome to DREADSEC...</h1>
-My personal blog consisting of guides and tutorials.
+<h1 align="center">Welcome to DREADSEC...</h1>
+<center>My personal blog consisting of guides and tutorials.</center>
 <hr>
