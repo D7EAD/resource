@@ -1,1 +1,1 @@
-# d7ead.github.io
+<title>dreadsec::blog</title>
