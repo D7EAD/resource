@@ -21,7 +21,7 @@
       <li><a href="https://bugcrowd.com">BugCrowd</a></li>      
     </ul>
   </li>
-  <li>Programming | Guides & Resources
+  <li>Programming
     <ul>
       <li><a href="https://sololearn.com/">SoloLearn</a></li>
       <li><a href="https://www.codecademy.com/">CodeCademy</a></li>
