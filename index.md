@@ -1,13 +1,3 @@
-<h2 align="center">Welcome to the Blog</h2>
-<p align="center">Below you can find my write-ups, guides, links, and other resources for cybersecurity, programming, and other general areas of technology that may be of use to you.
-<hr>
-<h2>Pages</h2>
-<ul>
-  <li>To be written...</li>  
-</ul>
-
-<br>
-
 <h2>Resources</h2>
 <ul>
   <li>YouTube
