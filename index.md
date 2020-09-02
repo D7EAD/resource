@@ -21,11 +21,21 @@
       <li><a href="https://bugcrowd.com">BugCrowd</a></li>      
     </ul>
   </li>
+  <li>Programming | Guides & Resources
+    <ul>
+      <li><a href="https://sololearn.com/">SoloLearn</a></li>
+      <li><a href="https://www.codecademy.com/">CodeCademy</a></li>
+      <li><a href="https://www.geeksforgeeks.org/">GeeksForGeeks</a></li>
+      <li><a href="https://www.freecodecamp.org/">freeCodeCamp</a></li>
+      <li><a href="https://www.udemy.com/">Udemy</a></li>
+      <li><a href="https://www.tutorialspoint.com/computer_programming_tutorials.htm">TutorialsPoint</a></li>
+    </ul>
+  </li>
   <li>Conventions
     <ul>
       <li><a href="https://defcon.org/">DEFCON Convention</a></li>
       <li><a href="https://blackhat.com/">BlackHat USA Convention</a></li>
-      <li><a href="https://infocon.org/">InfoCon : Cybersecurtity CON Hub</a></li>
+      <li><a href="https://infocon.org/">InfoCon : Cybersecurity CON Hub</a></li>
     </ul>
   </li>
 </ul>
