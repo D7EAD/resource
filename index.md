@@ -12,4 +12,20 @@
       <li><a href="https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w">LiveOverflow</a></li>
     </ul>
   </li>
+  <li>CTF, Labs, Bug Bounties
+    <ul>
+      <li><a href="https://hackthebox.eu/">HackTheBox</a></li>
+      <li><a href="https://tryhackme.com/">TryHackMe</a></li> 
+      <li><a href="https://hackthissite.org/">HackThisSite</a></li> 
+      <li><a href="https://hackerone.com/">Hacker0x01</a></li>      
+      <li><a href="https://bugcrowd.com">BugCrowd</a></li>      
+    </ul>
+  </li>
+  <li>Conventions
+    <ul>
+      <li><a href="https://defcon.org/">DEFCON Convention</a></li>
+      <li><a href="https://blackhat.com/">BlackHat USA Convention</a></li>
+      <li><a href="https://infocon.org/">InfoCon : Cybersecurtity CON Hub</a></li>
+    </ul>
+  </li>
 </ul>
