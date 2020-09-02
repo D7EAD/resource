@@ -24,12 +24,45 @@
   </li>
   <li>Programming
     <ul>
-      <li><a href="https://sololearn.com/">SoloLearn</a></li>
-      <li><a href="https://www.codecademy.com/">CodeCademy</a></li>
-      <li><a href="https://www.geeksforgeeks.org/">GeeksForGeeks</a></li>
-      <li><a href="https://www.freecodecamp.org/">freeCodeCamp</a></li>
-      <li><a href="https://www.udemy.com/">Udemy</a></li>
-      <li><a href="https://www.tutorialspoint.com/computer_programming_tutorials.htm">TutorialsPoint</a></li>
+      <li>Python
+        <ul>
+          <li><a href="https://www.tutorialspoint.com/python/index.htm">TutorialsPoint : Python</a></li>
+          <li><a href="https://docs.python.org/3/tutorial/">Python Documentation</a></li>
+          <li><a href="https://www.w3schools.com/python/">w3schools : Python</a></li>
+          <li><a href="https://www.learnpython.org/">LearnPython</a></li>
+          <li><a href="https://www.programiz.com/python-programming/tutorial">Programiz : Python</a></li>
+          <li><a href="https://realpython.com/">RealPython</a></li>
+        </ul>
+      </li>
+      <li>C/C++
+        <ul>
+          <li><a href="https://www.sololearn.com/Course/C/">SoloLearn : C</a>, <a href="https://www.sololearn.com/Course/CPlusPlus/">C++</a></li>                    
+          <li><a href="https://www.tutorialspoint.com/cprogramming/index.htm">TutorialsPoint : C</a>, <a href="https://www.tutorialspoint.com/cplusplus/index.htm">C++</a></li>          
+          <li><a href="https://www.cprogramming.com/tutorial/c-tutorial.html">CProgramming : C</a>, <a href="https://www.cprogramming.com/tutorial/c++-tutorial.html">C++</a></li>
+          <li><a href="https://www.learn-c.org/">Learn-C</a>, <a href="https://www.learncpp.com/">LearnCPP</a></li>
+          <li><a href="https://www.programiz.com/c-programming">Programiz : C</a>, <a href="https://www.programiz.com/cpp-programming">C++</a></li>
+          <li><a href="https://www.w3schools.in/c-tutorial/">w3schools : C</a>, <a href="https://www.w3schools.com/cpp/">C++</a></li>
+          <li><a href="https://www.geeksforgeeks.org/c-language-set-1-introduction/">GeeksForGeeks : C</a>, <a href="https://www.geeksforgeeks.org/cpp-tutorial/">C++</a></li>   
+          <li><a href="http://www.cplusplus.com/doc/tutorial/">CPlusPlus</a></li>
+        </ul>
+      </li>
+      <li>Web Languages
+        <ul>
+          <li><a href="https://www.w3schools.com/html/">w3schools : HTML</a>, <a href="https://www.w3schools.com/php/DEFAULT.asp">PHP</a>, <a href="https://www.w3schools.com/sql/">SQL</a>, <a href="https://www.w3schools.com/js/">JS</a>, <a href="https://www.w3schools.com/css/">CSS</a></li>
+          <li><a href="https://www.codecademy.com/learn/learn-html">Codecademy : HTML</a>, <a href="https://www.codecademy.com/learn/learn-php">PHP</a>, <a href="https://www.codecademy.com/learn/learn-sql">SQL</a>, <a href="https://www.codecademy.com/learn/introduction-to-javascript">JS</a>, <a href="https://www.codecademy.com/learn/learn-css">CSS</a></li>
+          <li><a href="https://www.tutorialspoint.com/html/index.htm">TutorialsPoint : HTML</a>, <a href="https://www.tutorialspoint.com/php/index.htm">PHP</a>, <a href="https://www.tutorialspoint.com/sql/index.htm">SQL</a>, <a href="https://www.tutorialspoint.com/javascript/index.htm">JS</a>, <a href="https://www.tutorialspoint.com/css/index.htm">CSS</a></li>
+        </ul>
+      </li>
+      <li>Miscellaneous
+        <ul>
+          <li><a href="https://www.codecademy.com/">Codecademy</a></li>
+          <li><a href="https://www.freecodecamp.org/">freeCodeCamp</a></li>
+          <li><a href="https://www.sololearn.com/">SoloLearn</a></li>
+          <li><a href="https://www.tutorialspoint.com/computer_science_tutorials.htm">TutorialsPoint</a></li>
+          <li><a href="https://www.programiz.com/">Programiz</a></li>
+          <li><a href="https://www.geeksforgeeks.org/">GeeksForGeeks</a></li>
+        </ul>
+      </li>
     </ul>
   </li>
   <li>Conventions
