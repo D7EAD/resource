@@ -76,6 +76,36 @@
   </li>
   </details>
   <details>
+  <summary>Hardware: Networking, Pentesting Resources</summary>
+  <li>Links
+    <ul>
+      <li>NICs: Injectable
+        <ul>
+          <li><a href="https://amzn.to/30S1fH4">ALFA AWUS036NHA: Chipset Atheros AR9271</a></li>
+          <li><a href="https://amzn.to/306Qam4">ALFA AWUS036NH: Chipset Ralink RT3070</a></li>
+          <li><a href="https://amzn.to/2sJCKtK">TP-LINK TL-WN722N (v1): Chipset Atheros AR9271</a></li>
+          <li><a href="https://amzn.to/2BGnuY0">ALFA﻿AWUS036NEH: CHipset Ralink RT3070</a></li>
+          <li><a href="https://amzn.to/332j8Ws">ALFA﻿AWUS036ACH: Chipset Realtek RTL8812AU</a></li>
+        </ul>
+      </li>
+      <li>Hak5
+        <ul>
+          <li><a href="https://shop.hak5.org/collections/sale/products/key-croc">Key Croc</a></li>
+          <li><a href="https://shop.hak5.org/collections/sale/products/shark-jack">Shark Jack</a></li>
+          <li><a href="https://shop.hak5.org/collections/sale/products/screen-crab">Screen Crab</a></li>
+          <li><a href="https://shop.hak5.org/collections/sale/products/wifi-pineapple">WiFi Pineapple</a></li>
+          <li><a href="https://shop.hak5.org/collections/sale/products/bash-bunny">Bash Bunny</a></li>
+          <li><a href="https://shop.hak5.org/collections/sale/products/usb-rubber-ducky-deluxe">Rubber Ducky</a></li>
+          <li><a href="https://shop.hak5.org/collections/sale/products/packet-squirrel">Packet Squirrel</a></li>
+          <li><a href="https://shop.hak5.org/collections/sale/products/lan-turtle">LAN Turtle</a></li>
+          <li><a href="https://shop.hak5.org/collections/sale/products/bug">LAN Tap</a></li>
+          <li><a href="https://shop.hak5.org/collections/sale/products/signal-owl">Signal Owl</a></li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  </details>
+  <details>
   <summary>Security Convention Resources</summary>
   <li>Links
     <ul>
