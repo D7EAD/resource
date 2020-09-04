@@ -149,7 +149,9 @@
           <li><a href="https://www.tenable.com/products/nessus/nessus-professional">Nessus</a></li>          
         </ul>
       </li>      
-    <ul>
+    </ul>
+  </li>
+  </details>
   <details>
   <summary>Security Convention Resources</summary>
   <li>Links
