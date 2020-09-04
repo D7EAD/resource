@@ -3,7 +3,7 @@
 <h2>Resources</h2>
 <ul>
   <details>
-  <summary>YouTube : Pentesting, Networking, Security</summary>
+  <summary>YouTube: Pentesting, Networking, and Security Resources</summary>
   <li>Links
     <ul>
       <li><a href="https://www.youtube.com/channel/UCW6MNdOsqv2E9AjQkv9we7A">PwnFunction</a></li> 
@@ -18,7 +18,7 @@
   </li>
   </details>
   <details>
-  <summary>CTF, Labs, Bug Bounties</summary>
+  <summary>CTF, Lab, and Bug Bounty Resources</summary>
   <li>Links
     <ul>
       <li><a href="https://hackthebox.eu/">HackTheBox</a></li>
@@ -30,7 +30,7 @@
   </li>
   </details>
   <details>
-  <summary>Programming</summary>
+  <summary>Programming Resources</summary>
   <li>Links
     <ul>
       <li>Python
@@ -76,7 +76,7 @@
   </li>
   </details>
   <details>
-  <summary>Conventions</summary>
+  <summary>Security Convention Resources</summary>
   <li>Links
     <ul>
       <li><a href="https://defcon.org/">DEFCON Convention</a></li>
