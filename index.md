@@ -168,10 +168,7 @@
     <ul>
       <li><a href="https://www.ebay.com/usr/defconconference">DEFCON</a></li>
       <li><a href="https://hackthebox.store/">HackTheBox</a></li>
-      <li><a href="https://www.zerodayclothing.com/hacking.php">0day Clothing: Hacking</a></li>
-      <li><a href="https://www.zerodayclothing.com/networking.php">0day Clothing: Networking</a></li>
-      <li><a href="https://www.zerodayclothing.com/computing.php">0day Clothing: Computing</a></li>
-      <li><a href="https://www.zerodayclothing.com/cryptography.php">0day Clothing: Cryptography</a></li>
+      <li><a href="https://www.zerodayclothing.com/hacking.php">0day Clothing: Hacking</a>, <a href="https://www.zerodayclothing.com/cryptography.php">Cryptography</a>, <a href="https://www.zerodayclothing.com/networking.php">Networking</a>, <a href="https://www.zerodayclothing.com/computing.php">Computing</a></li>
     </ul>
   </li>
   </details>
