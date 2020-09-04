@@ -84,7 +84,7 @@
           <li><a href="https://amzn.to/30S1fH4">ALFA AWUS036NHA: Chipset Atheros AR9271</a></li>
           <li><a href="https://amzn.to/306Qam4">ALFA AWUS036NH: Chipset Ralink RT3070</a></li>
           <li><a href="https://amzn.to/2sJCKtK">TP-LINK TL-WN722N (v1): Chipset Atheros AR9271</a></li>
-          <li><a href="https://amzn.to/2BGnuY0">ALFA﻿AWUS036NEH: CHipset Ralink RT3070</a></li>
+          <li><a href="https://amzn.to/2BGnuY0">ALFA﻿AWUS036NEH: Chipset Ralink RT3070</a></li>
           <li><a href="https://amzn.to/332j8Ws">ALFA﻿AWUS036ACH: Chipset Realtek RTL8812AU</a></li>
         </ul>
       </li>
