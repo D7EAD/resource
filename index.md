@@ -150,8 +150,6 @@
         </ul>
       </li>      
     <ul>
-  </li>
-  </details>
   <details>
   <summary>Security Convention Resources</summary>
   <li>Links
