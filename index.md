@@ -4,8 +4,8 @@
 <ul>
   <details>
   <summary>YouTube</summary>
-  <li>
-    <ul>Links
+  <li>Links
+    <ul>
       <li><a href="https://www.youtube.com/channel/UCW6MNdOsqv2E9AjQkv9we7A">PwnFunction</a></li> 
       <li><a href="https://www.youtube.com/user/Hak5Darren">Hak5</a></li>
       <li><a href="https://www.youtube.com/user/DEFCONConference">DEFCON</a></li>
