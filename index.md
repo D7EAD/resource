@@ -17,7 +17,9 @@
     </ul>
   </li>
   </details>
-  <li>CTF, Labs, Bug Bounties
+  <details>
+  <summary>CTF, Labs, Bug Bounties</summary>
+  <li>Links
     <ul>
       <li><a href="https://hackthebox.eu/">HackTheBox</a></li>
       <li><a href="https://tryhackme.com/">TryHackMe</a></li> 
@@ -26,6 +28,7 @@
       <li><a href="https://bugcrowd.com">BugCrowd</a></li>      
     </ul>
   </li>
+  </details>
   <li>Programming
     <ul>
       <li>Python
