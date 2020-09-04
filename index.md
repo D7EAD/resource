@@ -2,18 +2,20 @@
 <p style="color: greem;" align="center">Below you can find numerous links and resources for myriad things technology, security, networking, programming, software, etc. This page is meant to be used by anyone looking for a gateway hub to other useful sites and documents.</p>
 <h2>Resources</h2>
 <ul>
-  <li>YouTube
-    <ul>
-      <li><a href="https://www.youtube.com/channel/UCW6MNdOsqv2E9AjQkv9we7A">PwnFunction</a></li> 
-      <li><a href="https://www.youtube.com/user/Hak5Darren">Hak5</a></li>
-      <li><a href="https://www.youtube.com/user/DEFCONConference">DEFCON</a></li>
-      <li><a href="https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw">Cyber Mentor</a></li>
-      <li><a href="https://www.youtube.com/user/BlackHatOfficialYT">BlackHat USA</a></li>
-      <li><a href="https://www.youtube.com/user/NetworkChuck">NetworkChuck</a></li>
-      <li><a href="https://www.youtube.com/user/ConfigTerm">DavidBombal</a></li>
-      <li><a href="https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w">LiveOverflow</a></li>
-    </ul>
-  </li>
+  <details>
+    <li><summary>YouTube</summary>
+      <ul>
+        <li><a href="https://www.youtube.com/channel/UCW6MNdOsqv2E9AjQkv9we7A">PwnFunction</a></li> 
+        <li><a href="https://www.youtube.com/user/Hak5Darren">Hak5</a></li>
+        <li><a href="https://www.youtube.com/user/DEFCONConference">DEFCON</a></li>
+        <li><a href="https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw">Cyber Mentor</a></li>
+        <li><a href="https://www.youtube.com/user/BlackHatOfficialYT">BlackHat USA</a></li>
+        <li><a href="https://www.youtube.com/user/NetworkChuck">NetworkChuck</a></li>
+        <li><a href="https://www.youtube.com/user/ConfigTerm">DavidBombal</a></li>
+        <li><a href="https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w">LiveOverflow</a></li>
+      </ul>
+    </li>
+  </details>
   <li>CTF, Labs, Bug Bounties
     <ul>
       <li><a href="https://hackthebox.eu/">HackTheBox</a></li>
