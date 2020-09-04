@@ -31,7 +31,7 @@
   </details>
   <details>
   <summary>Programming</summary>
-  <li>Programming
+  <li>Links
     <ul>
       <li>Python
         <ul>
@@ -75,11 +75,14 @@
     </ul>
   </li>
   </details>
-  <li>Conventions
+  <details>
+  <summary>Conventions</summary>
+  <li>Links
     <ul>
       <li><a href="https://defcon.org/">DEFCON Convention</a></li>
       <li><a href="https://blackhat.com/">BlackHat USA Convention</a></li>
       <li><a href="https://infocon.org/">InfoCon : Cybersecurity CON Hub</a></li>
     </ul>
   </li>
+  </details>
 </ul>
