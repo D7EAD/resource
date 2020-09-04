@@ -3,7 +3,7 @@
 <h2>Resources</h2>
 <ul>
   <details>
-  <summary>YouTube</summary>
+  <summary>YouTube : Pentesting, Networking, Security</summary>
   <li>Links
     <ul>
       <li><a href="https://www.youtube.com/channel/UCW6MNdOsqv2E9AjQkv9we7A">PwnFunction</a></li> 
