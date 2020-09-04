@@ -109,19 +109,46 @@
   <summary>Software: Networking, Programming, Security Resources</summary>
   <li>Links
     <ul>
-      <li><a href="https://www.netsparker.com/">Netsparker</a></li>
-      <li><a href="https://www.wireshark.org/">Wireshark/Tshark</a></li>
-      <li><a href="https://www.metasploit.com/">Metasploit</a></li>
-      <li><a href="https://beefproject.com/">BeEF</a></li>
-      <li><a href="https://www.openwall.com/john">John</a></li>
-      <li><a href="https://www.aircrack-ng.org/">Aircrack-ng Suite</a></li>
-      <li><a href="https://www.acunetix.com/">Acunetix</a></li>
-      <li><a href="https://portswigger.net/burp">Burp Suite</a></li>
-      <li><a href="https://www.ettercap-project.org/">Ettercap</a></li>
-      <li><a href="https://www.tenable.com/products/nessus/nessus-professional">Nessus</a></li>
-      <li><a href="http://sqlmap.org/">SQLmap</a></li>
-      <li><a href="https://nmap.org/">NMAP</a></li>
-      <li><a href="https://ngrok.com/">ngrok</a></li>
+      <li>Networking
+        <ul>
+          <li><a href="https://www.wireshark.org/">Wireshark/Tshark</a></li>
+          <li><a href="https://www.tcpdump.org/">tcpdump</a></li>          
+          <li><a href="https://www.aircrack-ng.org/">Aircrack-ng Suite</a></li>
+          <li><a href="https://www.ettercap-project.org/">Ettercap</a></li>
+          <li><a href="https://nmap.org/">NMAP</a></li>
+          <li><a href="https://ngrok.com/">ngrok</a></li>
+          <li><a href="https://www.netacad.com/courses/packet-tracer">Packet Tracer</a></li>
+        </ul>
+      </li>
+      <li>Programming
+        <ul>
+          <li><a href="https://visualstudio.microsoft.com/">Visual Studio IDE</a></li>
+          <li><a href="https://www.eclipse.org/downloads/">Eclipse</a></li>
+          <li><a href="https://netbeans.org/">NetBeans</a></li>
+          <li><a href="https://atom.io/">Atom</a></li>
+          <li><a href="https://www.jetbrains.com/idea/">IntelliJ IDEA</a></li>
+          <li><a href="https://www.jetbrains.com/pycharm/">PyCharm</a></li>
+          <li><a href="https://www.jetbrains.com/webstorm/">WebStorm</a></li>
+          <li><a href="https://www.jetbrains.com/phpstorm/">PHPStorm</a></li>
+          <li><a href="https://www.activestate.com/products/komodo-edit/">Komodo Edit</a></li>
+          <li><a href="http://www.codeblocks.org/">Code::Blocks</a></li>
+          <li><a href="https://www.spyder-ide.org/">Spyder</a></li>
+          <li><a href="https://developer.apple.com/xcode/">XCode</a></li>
+          <li><a href="https://www.qt.io/product">Qt Creator</a></li>
+        </ul>
+      </li>
+      <li>Security
+        <ul>
+          <li><a href="https://www.netsparker.com/">Netsparker</a></li>
+          <li><a href="https://www.metasploit.com/">Metasploit</a></li>          
+          <li><a href="https://beefproject.com/">BeEF</a></li>
+          <li><a href="https://www.openwall.com/john">John</a></li>          
+          <li><a href="https://www.acunetix.com/">Acunetix</a></li>          
+          <li><a href="http://sqlmap.org/">SQLmap</a></li>
+          <li><a href="https://portswigger.net/burp">Burp Suite</a></li>
+          <li><a href="https://www.tenable.com/products/nessus/nessus-professional">Nessus</a></li>          
+        </ul>
+      </li>      
     <ul>
   </li>
   </details>
