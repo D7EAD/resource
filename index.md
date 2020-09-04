@@ -29,6 +29,8 @@
     </ul>
   </li>
   </details>
+  <details>
+  <summary>Programming</summary>
   <li>Programming
     <ul>
       <li>Python
@@ -72,6 +74,7 @@
       </li>
     </ul>
   </li>
+  </details>
   <li>Conventions
     <ul>
       <li><a href="https://defcon.org/">DEFCON Convention</a></li>
