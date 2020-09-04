@@ -113,7 +113,6 @@
         <ul>
           <li><a href="https://www.wireshark.org/">Wireshark/Tshark</a></li>
           <li><a href="https://www.tcpdump.org/">tcpdump</a></li>          
-          <li><a href="https://www.aircrack-ng.org/">Aircrack-ng Suite</a></li>
           <li><a href="https://www.ettercap-project.org/">Ettercap</a></li>
           <li><a href="https://nmap.org/">NMAP</a></li>
           <li><a href="https://ngrok.com/">ngrok</a></li>
@@ -141,6 +140,7 @@
         <ul>
           <li><a href="https://www.netsparker.com/">Netsparker</a></li>
           <li><a href="https://www.metasploit.com/">Metasploit</a></li>          
+          <li><a href="https://www.aircrack-ng.org/">Aircrack-ng Suite</a></li>
           <li><a href="https://beefproject.com/">BeEF</a></li>
           <li><a href="https://www.openwall.com/john">John</a></li>          
           <li><a href="https://www.acunetix.com/">Acunetix</a></li>          
