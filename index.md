@@ -106,6 +106,26 @@
   </li>
   </details>
   <details>
+  <summary>Software: Networking, Programming, Security Resources</summary>
+  <li>Links
+    <ul>
+      <li><a href="https://www.netsparker.com/">Netsparker</a></li>
+      <li><a href="https://www.wireshark.org/">Wireshark/Tshark</a></li>
+      <li><a href="https://www.metasploit.com/">Metasploit</a></li>
+      <li><a href="https://beefproject.com/">BeEF</a></li>
+      <li><a href="https://www.openwall.com/john">John</a></li>
+      <li><a href="https://www.aircrack-ng.org/">Aircrack-ng Suite</a></li>
+      <li><a href="https://www.acunetix.com/">Acunetix</a></li>
+      <li><a href="https://portswigger.net/burp">Burp Suite</a></li>
+      <li><a href="https://www.ettercap-project.org/">Ettercap</a></li>
+      <li><a href="https://www.tenable.com/products/nessus/nessus-professional">Nessus</a></li>
+      <li><a href="http://sqlmap.org/">SQLmap</a></li>
+      <li><a href="https://nmap.org/">NMAP</a></li>
+      <li><a href="https://ngrok.com/">ngrok</a></li>
+    <ul>
+  </li>
+  </details>
+  <details>
   <summary>Security Convention Resources</summary>
   <li>Links
     <ul>
