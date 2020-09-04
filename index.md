@@ -2,10 +2,9 @@
 <p style="color: greem;" align="center">Below you can find numerous links and resources for myriad things technology, security, networking, programming, software, etc. This page is meant to be used by anyone looking for a gateway hub to other useful sites and documents.</p>
 <h2>Resources</h2>
 <ul>
-  <details>
-    <summary>YouTube</summary>
     <li>
-      <ul>YouTube
+    <details>
+      <ul><summary>YouTube</summary>
         <li><a href="https://www.youtube.com/channel/UCW6MNdOsqv2E9AjQkv9we7A">PwnFunction</a></li> 
         <li><a href="https://www.youtube.com/user/Hak5Darren">Hak5</a></li>
         <li><a href="https://www.youtube.com/user/DEFCONConference">DEFCON</a></li>
