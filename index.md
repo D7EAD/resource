@@ -163,7 +163,7 @@
   </li>
   </details>
   <details>
-  <summary>3L33T Merchandise</summary>
+  <summary>3L1T3 Merchandise</summary>
   <li>Links
     <ul>
       <li><a href="https://www.ebay.com/usr/defconconference">DEFCON</a></li>
