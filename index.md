@@ -101,7 +101,6 @@
 </ul>
 </details>
 
-</details>
 <details>
 <summary>Software: Networking, Programming, Security Resources</summary>  
 <ul>
