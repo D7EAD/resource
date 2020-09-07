@@ -165,4 +165,4 @@
 </ul>
 </details>
 
-<p align="right" style="color: green;">- brought to you by d7ead[defect1v3]</p>
+<p align="right">- brought to you by d7ead[defect1v3]</p>
