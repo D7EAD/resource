@@ -164,3 +164,5 @@
   <li><a href="https://www.zerodayclothing.com/hacking.php">0day Clothing: Hacking</a>, <a href="https://www.zerodayclothing.com/cryptography.php">Cryptography</a>, <a href="https://www.zerodayclothing.com/networking.php">Networking</a>, <a href="https://www.zerodayclothing.com/computing.php">Computing</a></li>
 </ul>
 </details>
+
+<p align="right" style="color: green;">- brought to you by d7ead[defect1v3]</p>
