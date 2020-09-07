@@ -148,6 +148,30 @@
 </details>
 
 <details>
+<summary>Career Certification Resources</summary>
+<ul>
+  <li>Networking
+    <ul>
+        <li><a href="https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/entry/technician-cct.html">CCT</a></li>
+        <li><a href="https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html">CCNA</a></li>
+        <li><a href="https://www.comptia.org/certifications/a">CompTIA A+</a></li>
+        <li><a href="https://www.comptia.org/certifications/network">CompTIA Network+</a></li>
+        <li><a href="https://www.microsoft.com/en-us/learning/mta-summary-certification.aspx">MTA</a></li>
+    </ul>
+  </li>
+  <li>Security
+    <ul>
+      <li><a href="https://www.comptia.org/certifications/security">Security+</a></li>
+      <li><a href="https://www.isc2.org/Certifications/CISSP#">CISSP</a></li>
+      <li><a href="https://www.offensive-security.com/pwk-oscp/">OSCP</a></li>
+      <li><a href="https://www.isaca.org/credentialing/cisa">CISA</a></li>
+      <li><a href="https://www.isaca.org/credentialing/cism">CISM</a></li>
+    </ul>
+  </li>    
+</ul>
+</details>
+
+<details>
 <summary>Security Convention Resources</summary>
 <ul>
   <li><a href="https://defcon.org/">DEFCON Convention</a></li>
