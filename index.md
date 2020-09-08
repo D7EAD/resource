@@ -13,6 +13,9 @@
     <li><a href="https://www.youtube.com/user/NetworkChuck">NetworkChuck</a></li>
     <li><a href="https://www.youtube.com/user/ConfigTerm">DavidBombal</a></li>
     <li><a href="https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w">LiveOverflow</a></li>
+    <li><a href="https://www.youtube.com/channel/UCgTNupxATBfWmfehv21ym-g">Null Byte</a></li>
+    <li><a href="https://www.youtube.com/channel/UC64x_rKHxY113KMWmprLBPA">JackkTutorials</a></li>
+    <li><a href="https://www.youtube.com/user/elithecomputerguy">Eli the Computer Guy</a></li>
 </ul>
 </details>
 
