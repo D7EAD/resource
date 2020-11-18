@@ -32,6 +32,17 @@
 </details>
 
 <details>
+<summary>Book and Text Resources</details>
+<ul>
+  <li>Programming
+    <ul>
+      <li><a href="#">To be added...</a></li>
+    </ul>
+  </li>
+</ul>
+</details>
+
+<details>
 <summary>Programming Resources</summary>
 <ul>
   <li>Python
