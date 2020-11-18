@@ -32,7 +32,7 @@
 </details>
 
 <details>
-<summary>Book and Text Resources</details>
+<summary>Book and Text Resources</summary>
 <ul>
   <li>Programming
     <ul>
