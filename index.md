@@ -47,7 +47,6 @@
           <li><a href="https://www.amazon.com/All-One-Desk-Reference-Dummies/dp/0470317353">C++ All-In-One Desk Reference For Dummies</a></li>            
         </ul>
       </details></li>
-    </ul>
       <li><details><summary>Python</summary>
         <ul>
           <li><a href="https://www.amazon.com/Black-Hat-Python-Programming-Pentesters/dp/1593275900">Black Hat Python: Python Programming for Hackers and Pentesters</a></li>
@@ -57,6 +56,7 @@
           <li><a href="https://www.amazon.com/Python-Programming-Introduction-Computer-Science/dp/1590282752/ref=asc_df_1590282752/?tag=hyprod-20&linkCode=df0&hvadid=312060980065&hvpos=&hvnetw=g&hvrand=15686400928758157696&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9011484&hvtargid=pla-323809053960&psc=1">Python Programming: An Introduction to Computer Science, 3rd Ed</a></li>            
         </ul>
       </details></li>
+    </ul>
   <li><details><summary>Security</summary>
     <ul>
       <li><a href="#">To be added...</a></li>
