@@ -38,19 +38,24 @@
 <ul>
   <li><details><summary>Programming</summary>
     <ul>
-        <li><a href="#">To be added...</a></li>
+      <li><a href="#">To be added...</a></li>
     </ul>
   </details></li>
   <li><details><summary>Security</summary>
     <ul>
-        <li><a href="#">To be added...</a></li>
+      <li><a href="#">To be added...</a></li>
     </ul>
   </details></li>
   <li><details><summary>Networking</summary>
     <ul>
-        <li><a href="#">To be added...</a></li>
+      <li><a href="#">To be added...</a></li>
     </ul>
   </details></li>
+  <li><details><summary>Miscellaneous</summary>
+    <ul>
+      <li><a href="#">To be added...</a></li>
+    </ul>
+  </details></li>      
 </ul>
 </details>
 
