@@ -204,4 +204,4 @@
 </ul>
 </details>
 
-<p align="center">brought to you by <a href="https://github.com/D7EAD">d7ead</a>[defect1v3]</p>
+<p align="center">brought to you by <a href="https://github.com/D7EAD">d7ead</a></p>
