@@ -36,9 +36,9 @@
 <details>
 <summary>Book and Text Resources</summary>
 <ul>
-  <li><details><summary>Programming</summary></details>
+  <li><details><summary>Programming</summary>
     <ul>
-      <li><a href="#">To be added...</a></li>
+        <li><a href="#">To be added...</a></li>
     </ul>
   </li>
 </ul>
