@@ -38,7 +38,11 @@
 <ul>
   <li><details><summary>Programming</summary>
     <ul>
-      <li><a href="#">To be added...</a></li>
+      <li><details><summary>C++</summary>
+        <ul>
+          <li><a href="https://www.amazon.com/C-Programming-Language-4th/dp/0321563840">The C++ Programming Language, 4th Edition</a></li>
+        </ul>
+      </details></li>
     </ul>
   </details></li>
   <li><details><summary>Security</summary>
