@@ -58,6 +58,15 @@
           <li><a href="https://www.amazon.com/Python-Programming-Introduction-Computer-Science/dp/1590282752/ref=asc_df_1590282752/?tag=hyprod-20&linkCode=df0&hvadid=312060980065&hvpos=&hvnetw=g&hvrand=15686400928758157696&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9011484&hvtargid=pla-323809053960&psc=1">Python Programming: An Introduction to Computer Science, 3rd Ed</a></li>            
         </ul>
       </details></li>
+      <li><detalls><summary>Web Languages</summary>
+        <ul>
+          <li><details><summary>HTML</summary>
+            <ul>
+              <li><a href="#">TBA</a></li>
+            </ul>
+          </details></li>
+        </ul>
+      </details></li>
     </ul>      
   </details></li>
   <li><details><summary>Security</summary>
