@@ -55,6 +55,26 @@
               <li><a href="#">TBA</a></li>
             </ul>
           </details></li>  
+          <li><details><summary>CSS</summary>
+            <ul>
+              <li><a href="#">TBA</a></li>
+            </ul>
+          </details></li>  
+          <li><details><summary>JS</summary>
+            <ul>
+              <li><a href="#">TBA</a></li>
+            </ul>
+          </details></li>              
+          <li><details><summary>SQL</summary>
+            <ul>
+              <li><a href="#">TBA</a></li>
+            </ul>
+          </details></li>              
+          <li><details><summary>PHP</summary>
+            <ul>
+              <li><a href="#">TBA</a></li>
+            </ul>
+          </details></li>              
         </ul>
       </details></li>        
       <li><details><summary>Assembly</summary>
