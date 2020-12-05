@@ -55,9 +55,8 @@
           <li><a href="https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1491957662/ref=asc_df_1491957662/?tag=hyprod-20&linkCode=df0&hvadid=312140868236&hvpos=&hvnetw=g&hvrand=15686400928758157696&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9011484&hvtargid=pla-396828636441&psc=1">Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython</a></li>            
           <li><a href="https://www.amazon.com/Real-World-Python-Hackers-Solving-Problems/dp/1718500629/ref=asc_df_1718500629/?tag=hyprod-20&linkCode=df0&hvadid=459538011055&hvpos=&hvnetw=g&hvrand=15686400928758157696&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9011484&hvtargid=pla-917667587653&psc=1">Real-World Python: A Hacker's Guide to Solving Problems with Code</a></li>            
           <li><a href="https://www.amazon.com/Python-Programming-Introduction-Computer-Science/dp/1590282752/ref=asc_df_1590282752/?tag=hyprod-20&linkCode=df0&hvadid=312060980065&hvpos=&hvnetw=g&hvrand=15686400928758157696&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9011484&hvtargid=pla-323809053960&psc=1">Python Programming: An Introduction to Computer Science, 3rd Ed</a></li>            
-      </ul>
-    </ul>
-  </details></li>
+        </ul>
+      </details></li>
   <li><details><summary>Security</summary>
     <ul>
       <li><a href="#">To be added...</a></li>
