@@ -102,7 +102,7 @@
 <details>
 <summary>Hardware: Networking, Pentesting Resources</summary>
 <ul>
-  <li>NICs: Injectable
+  <li><details><summary>NICs: Injectable</summary>
     <ul>
       <li><a href="https://amzn.to/30S1fH4">ALFA AWUS036NHA: Chipset Atheros AR9271</a></li>
       <li><a href="https://amzn.to/306Qam4">ALFA AWUS036NH: Chipset Ralink RT3070</a></li>
@@ -110,8 +110,8 @@
       <li><a href="https://amzn.to/2BGnuY0">ALFA﻿AWUS036NEH: Chipset Ralink RT3070</a></li>
       <li><a href="https://amzn.to/332j8Ws">ALFA﻿AWUS036ACH: Chipset Realtek RTL8812AU</a></li>
     </ul>
-  </li>
-  <li>Hak5
+  </details></li>
+  <li><details><summary>Hak5</summary>
     <ul>
       <li><a href="https://shop.hak5.org/collections/sale/products/key-croc">Key Croc</a></li>
       <li><a href="https://shop.hak5.org/collections/sale/products/shark-jack">Shark Jack</a></li>
@@ -124,14 +124,14 @@
       <li><a href="https://shop.hak5.org/collections/sale/products/bug">LAN Tap</a></li>
       <li><a href="https://shop.hak5.org/collections/sale/products/signal-owl">Signal Owl</a></li>
     </ul>
-  </li>
+  </details></li>
 </ul>
 </details>
 
 <details>
 <summary>Software: Networking, Programming, Security Resources</summary>  
 <ul>
-  <li>Networking
+  <li><details><summary>Networking</summary>
     <ul>
       <li><a href="https://www.wireshark.org/">Wireshark/Tshark</a></li>
       <li><a href="https://www.tcpdump.org/">tcpdump</a></li>          
@@ -140,8 +140,8 @@
       <li><a href="https://ngrok.com/">ngrok</a></li>
       <li><a href="https://www.netacad.com/courses/packet-tracer">Packet Tracer</a></li>
     </ul>
-  </li>
-  <li>Programming
+  </details></li>
+  <li><details><summary>Programming</summary>
     <ul>
       <li><a href="https://visualstudio.microsoft.com/">Visual Studio IDE</a></li>
       <li><a href="https://www.eclipse.org/downloads/">Eclipse</a></li>
@@ -157,8 +157,8 @@
       <li><a href="https://developer.apple.com/xcode/">XCode</a></li>
       <li><a href="https://www.qt.io/product">Qt Creator</a></li>
    </ul>
-  </li>
-  <li>Security
+  </details></li>
+  <li><details><summary>Security</summary>
     <ul>
       <li><a href="https://www.netsparker.com/">Netsparker</a></li>
       <li><a href="https://www.metasploit.com/">Metasploit</a></li>          
@@ -170,14 +170,14 @@
       <li><a href="https://portswigger.net/burp">Burp Suite</a></li>
       <li><a href="https://www.tenable.com/products/nessus/nessus-professional">Nessus</a></li>          
     </ul>
-  </li>      
+  </details></li>      
 </ul>
 </details>
 
 <details>
 <summary>Career Certification Resources</summary>
 <ul>
-  <li>Networking
+  <li><details><summary>Networking</summary>
     <ul>
         <li><a href="https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/entry/technician-cct.html">CCT</a></li>
         <li><a href="https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html">CCNA</a></li>
@@ -185,8 +185,8 @@
         <li><a href="https://www.comptia.org/certifications/network">CompTIA Network+</a></li>
         <li><a href="https://www.microsoft.com/en-us/learning/mta-summary-certification.aspx">MTA</a></li>
     </ul>
-  </li>
-  <li>Security
+  </details></li>
+  <li><details><summary>Security</summary>
     <ul>
       <li><a href="https://www.comptia.org/certifications/security">Security+</a></li>
       <li><a href="https://www.isc2.org/Certifications/CISSP#">CISSP</a></li>
@@ -194,7 +194,7 @@
       <li><a href="https://www.isaca.org/credentialing/cisa">CISA</a></li>
       <li><a href="https://www.isaca.org/credentialing/cism">CISM</a></li>
     </ul>
-  </li>    
+  </details></li>    
 </ul>
 </details>
 
