@@ -48,6 +48,20 @@
           <li><a href="https://www.amazon.com/Black-Hat-Python-Programming-Pentesters/dp/1593275900">Black Hat Python: Python Programming for Hackers and Pentesters</a></li>  
         </ul>
       </details></li>
+      <li><details><summary>Web Languages</summary>
+        <ul>
+          <li><details><summary>HTML</summary>
+            <ul>
+              <li><a href="#">TBA</a></li>
+            </ul>
+          </details></li>  
+        </ul>
+      </details></li>        
+      <li><details><summary>Assembly</summary>
+        <ul>
+          <li><a href="#">TBA</a></li>  
+        </ul>
+      </details></li>        
     </ul>
   </details></li>
   <li><details><summary>Security</summary>
