@@ -46,8 +46,8 @@
 
 <details>
 <summary>Programming Resources</summary>
-<ul>
-  <li>Python
+<details>
+  <summary>Python</summary>
     <ul>
       <li><a href="https://www.tutorialspoint.com/python/index.htm">TutorialsPoint : Python</a></li>
       <li><a href="https://docs.python.org/3/tutorial/">Python Documentation</a></li>
@@ -56,7 +56,7 @@
       <li><a href="https://www.programiz.com/python-programming/tutorial">Programiz : Python</a></li>
       <li><a href="https://realpython.com/">RealPython</a></li>
     </ul>
-  </li>
+  </details>
   <li>C/C++
     <ul>
       <li><a href="https://www.sololearn.com/Course/C/">SoloLearn : C</a>, <a href="https://www.sololearn.com/Course/CPlusPlus/">C++</a></li>                    
