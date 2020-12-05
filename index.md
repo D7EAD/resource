@@ -41,9 +41,24 @@
       <li><details><summary>C++</summary>
         <ul>
           <li><a href="https://www.amazon.com/C-Programming-Language-4th/dp/0321563840">The C++ Programming Language, 4th Edition</a></li>
+          <li><a href="https://www.amazon.com/Programming-Principles-Practice-Using-C/dp/0321543726">Programming: Principles and Practice Using C++</a></li>            
+          <li><a href="https://www.amazon.com/Tour-2nd-Depth-Bjarne-Stroustrup/dp/0134997832">A Tour of C++ (C++ In-Depth Series)</a></li>            
+          <li><a href="https://www.amazon.com/Effective-Modern-Specific-Ways-Improve/dp/1491903996">Effective Modern C++</a></li>            
+          <li><a href="https://www.amazon.com/All-One-Desk-Reference-Dummies/dp/0470317353">C++ All-In-One Desk Reference For Dummies</a></li>            
         </ul>
       </details></li>
     </ul>
+    <ul>
+      <li><details><summary>Python</summary>
+        <ul>
+          <li><a href="https://www.amazon.com/Black-Hat-Python-Programming-Pentesters/dp/1593275900">Black Hat Python: Python Programming for Hackers and Pentesters</a></li>
+          <li><a href=""></a></li>            
+          <li><a href=""></a></li>            
+          <li><a href=""></a></li>            
+          <li><a href=""></a></li>            
+        </ul>
+      </details></li>
+    </ul>      
   </details></li>
   <li><details><summary>Security</summary>
     <ul>
