@@ -41,13 +41,23 @@
         <li><a href="#">To be added...</a></li>
     </ul>
   </details></li>
+  <li><details><summary>Security</summary>
+    <ul>
+        <li><a href="#">To be added...</a></li>
+    </ul>
+  </details></li>
+  <li><details><summary>Networking</summary>
+    <ul>
+        <li><a href="#">To be added...</a></li>
+    </ul>
+  </details></li>
 </ul>
 </details>
 
 <details>
 <summary>Programming Resources</summary>
 <ul>
-  <li>Python
+  <li><details><summary>Python</summary>
     <ul>
       <li><a href="https://www.tutorialspoint.com/python/index.htm">TutorialsPoint : Python</a></li>
       <li><a href="https://docs.python.org/3/tutorial/">Python Documentation</a></li>
@@ -56,8 +66,8 @@
       <li><a href="https://www.programiz.com/python-programming/tutorial">Programiz : Python</a></li>
       <li><a href="https://realpython.com/">RealPython</a></li>
     </ul>
-  </li>
-  <li>C/C++
+  </details></li>
+  <li><details><summary>C/C++</summary>
     <ul>
       <li><a href="https://www.sololearn.com/Course/C/">SoloLearn : C</a>, <a href="https://www.sololearn.com/Course/CPlusPlus/">C++</a></li>                    
       <li><a href="https://www.tutorialspoint.com/cprogramming/index.htm">TutorialsPoint : C</a>, <a href="https://www.tutorialspoint.com/cplusplus/index.htm">C++</a></li>          
@@ -68,15 +78,15 @@
       <li><a href="https://www.geeksforgeeks.org/c-language-set-1-introduction/">GeeksForGeeks : C</a>, <a href="https://www.geeksforgeeks.org/cpp-tutorial/">C++</a></li>   
       <li><a href="http://www.cplusplus.com/doc/tutorial/">CPlusPlus</a></li>
     </ul>
-  </li>
-  <li>Web Languages
+  </details></li>
+  <li><details><summary>Web Languages</summary>
     <ul>
       <li><a href="https://www.w3schools.com/html/">w3schools : HTML</a>, <a href="https://www.w3schools.com/php/DEFAULT.asp">PHP</a>, <a href="https://www.w3schools.com/sql/">SQL</a>, <a href="https://www.w3schools.com/js/">JS</a>, <a href="https://www.w3schools.com/css/">CSS</a></li>
       <li><a href="https://www.codecademy.com/learn/learn-html">Codecademy : HTML</a>, <a href="https://www.codecademy.com/learn/learn-php">PHP</a>, <a href="https://www.codecademy.com/learn/learn-sql">SQL</a>, <a href="https://www.codecademy.com/learn/introduction-to-javascript">JS</a>, <a href="https://www.codecademy.com/learn/learn-css">CSS</a></li>
       <li><a href="https://www.tutorialspoint.com/html/index.htm">TutorialsPoint : HTML</a>, <a href="https://www.tutorialspoint.com/php/index.htm">PHP</a>, <a href="https://www.tutorialspoint.com/sql/index.htm">SQL</a>, <a href="https://www.tutorialspoint.com/javascript/index.htm">JS</a>, <a href="https://www.tutorialspoint.com/css/index.htm">CSS</a></li>
     </ul>
-  </li>
-  <li>Miscellaneous
+  </details></li>
+    <li><details><summary>Miscellaneous</summary>
     <ul>
       <li><a href="https://www.codecademy.com/">Codecademy</a></li>
       <li><a href="https://www.freecodecamp.org/">freeCodeCamp</a></li>
@@ -85,7 +95,7 @@
       <li><a href="https://www.programiz.com/">Programiz</a></li>
       <li><a href="https://www.geeksforgeeks.org/">GeeksForGeeks</a></li>
     </ul>
-  </li>
+    </details></li>
 </ul>
 </details>  
 
