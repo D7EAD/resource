@@ -52,10 +52,10 @@
       <li><details><summary>Python</summary>
         <ul>
           <li><a href="https://www.amazon.com/Black-Hat-Python-Programming-Pentesters/dp/1593275900">Black Hat Python: Python Programming for Hackers and Pentesters</a></li>
-          <li><a href=""></a></li>            
-          <li><a href=""></a></li>            
-          <li><a href=""></a></li>            
-          <li><a href=""></a></li>            
+          <li><a href="https://play.google.com/store/books/details?id=93YpDwAAQBAJ&gl=us&hl=en-US&source=productsearch&utm_source=HA_Desktop_US&utm_medium=SEM&utm_campaign=PLA&pcampaignid=MKT-FDR-na-us-1000189-Med-pla-bk-Evergreen-Jul1520-PLA-eBooks_Computers&gclid=CjwKCAiA_Kz-BRAJEiwAhJNY7-yi7H1ZV09iWeg1K-OfKZFv3yIvNxlfSsD7ofsB1lkn76jYaHHspRoCwTMQAvD_BwE&gclsrc=aw.ds">Learn Python 3 the Hard Way</a></li>            
+          <li><a href="https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1491957662/ref=asc_df_1491957662/?tag=hyprod-20&linkCode=df0&hvadid=312140868236&hvpos=&hvnetw=g&hvrand=15686400928758157696&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9011484&hvtargid=pla-396828636441&psc=1">Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython</a></li>            
+          <li><a href="https://www.amazon.com/Real-World-Python-Hackers-Solving-Problems/dp/1718500629/ref=asc_df_1718500629/?tag=hyprod-20&linkCode=df0&hvadid=459538011055&hvpos=&hvnetw=g&hvrand=15686400928758157696&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9011484&hvtargid=pla-917667587653&psc=1">Real-World Python: A Hacker's Guide to Solving Problems with Code</a></li>            
+          <li><a href="https://www.amazon.com/Python-Programming-Introduction-Computer-Science/dp/1590282752/ref=asc_df_1590282752/?tag=hyprod-20&linkCode=df0&hvadid=312060980065&hvpos=&hvnetw=g&hvrand=15686400928758157696&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9011484&hvtargid=pla-323809053960&psc=1">Python Programming: An Introduction to Computer Science, 3rd Ed</a></li>            
         </ul>
       </details></li>
     </ul>      
