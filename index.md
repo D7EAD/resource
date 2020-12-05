@@ -36,11 +36,11 @@
 <details>
 <summary>Book and Text Resources</summary>
 <ul>
-  <details><li>Programming
+  <li><details><summary>Programmin</summary>
     <ul>
         <li><a href="#">To be added...</a></li>
     </ul>
-  </li></details>
+  </details></li>
 </ul>
 </details>
 
