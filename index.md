@@ -1,5 +1,6 @@
 <p align="right"><a href="https://dreadsec.me/">Return to Homepage</a></p>
-<p align="center">Below you can find numerous links and resources for myriad things technology, security, networking, programming, software, etc. This page is meant to be used by anyone looking for a gateway hub to other useful sites and documents.</p>
+<h2>About></h2>
+<p align="left">Below you can find numerous links and resources for myriad things technology, security, networking, programming, software, etc. This page is meant to be used by anyone looking for a gateway hub to other useful sites and documents.</p>
 
 <h2>Resources</h2>
 <details>
