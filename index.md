@@ -24,7 +24,7 @@
 <details>
 <summary>CTF, Lab, and Bug Bounty Resources</summary>
 <ul>
-    <li><a href="https://hackthebox.eu/">HackTheBox</a></li>
+    <li><a href="https://hackthebox.eu/">HackTheBox</a></li><details><summary> info</summary><ul><li>data here</li></ul></details>
     <li><a href="https://tryhackme.com/">TryHackMe</a></li> 
     <li><a href="https://hackthissite.org/">HackThisSite</a></li> 
     <li><a href="https://overthewire.org/wargames/">OverTheWire</a></li> 
